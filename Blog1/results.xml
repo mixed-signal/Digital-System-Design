@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1721210908" />
+    <testcase name="test_modulename" classname="test_modulename" file="/home/gursimran/Desktop/DSD/DSD_blog/test_modulename.py" lineno="4" time="0.0011739730834960938" sim_time_ns="40.001" ratio_time="34073.18324614134" />
+  </testsuite>
+</testsuites>
