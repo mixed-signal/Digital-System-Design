@@ -1,0 +1,4 @@
+read_verilog decode_case.v
+proc
+opt
+show
