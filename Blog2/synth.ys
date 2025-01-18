@@ -1,4 +1,4 @@
-read_verilog decode_case.v
+read_verilog pwm_gen.v
 proc
 opt
 show

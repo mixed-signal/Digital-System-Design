@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1737135503" />
+    <testcase name="test_rising_edge" classname="test_rising_edge" file="/home/gursimran/Desktop/DSD/Digital-System-Design/SV/Tests/test_rising_edge.py" lineno="7" time="0.0023322105407714844" sim_time_ns="20.001" ratio_time="8575.983878961359" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,10 @@
+digraph {
+	node [fillcolor=lightblue fontname=Helvetica fontsize=10 shape=ellipse style=filled]
+	rankdir=TB
+	zero
+	one
+	zero -> one [label="level/tick = 1"]
+	one -> zero [label="~level"]
+	one -> one [label=level]
+	zero -> zero [label="~level"]
+}
